@@ -1,0 +1,29 @@
+body {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  align-items: center;
+}
+
+#paragraph-result {
+  margin-top: 50px;
+}
+
+input {
+  margin-top: 5px;
+  width: 200px;
+}

@@ -27,7 +27,7 @@
  Elaborei uma simples calculadora de índice de massa corporal que permite apontar se a pessoa está com o peso adequado, ou se 
  está abaixo ou acima do peso.
  
- link da página: <a href="#" target="_blank">Calculadora IMC</a>
+ link da página: <a href="https://calculadora-imc-simples-sooty.vercel.app/" target="_blank">Calculadora IMC</a>
 
 </p>
 
